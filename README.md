@@ -8,7 +8,10 @@
 Proyek analisis data *end-to-end*—mencakup *data cleaning* menggunakan SQL, *exploratory data analysis* (EDA), hingga perancangan dashboard interaktif di Google Looker Studio—untuk memetakan tren dan dampak pemutusan hubungan kerja (PHK) global sepanjang **2020–2026**.
 
 > 🔗https://datastudio.google.com/reporting/9951d45c-28b4-42a9-81f2-cefb0c635cb8
-[![Preview Dashboard Global Layoffs Analysis](./dashboard_preview.png)](https://datastudio.google.com/reporting/9951d45c-28b4-42a9-81f2-cefb0c635cb8)
+> <img width="1477" height="925" alt="image" src="https://github.com/user-attachments/assets/b380ca80-c6f2-420f-a10d-07a270a51ed7" />
+
+
+
 > 
 > 
 
