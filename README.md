@@ -10,6 +10,7 @@ Proyek analisis data *end-to-end*—mencakup *data cleaning* menggunakan SQL, *e
 > 🔗https://datastudio.google.com/reporting/9951d45c-28b4-42a9-81f2-cefb0c635cb8
 [![Preview Dashboard Global Layoffs Analysis](./dashboard_preview.png)](https://datastudio.google.com/reporting/9951d45c-28b4-42a9-81f2-cefb0c635cb8)
 > 
+> 
 
 ---
 
