@@ -110,10 +110,7 @@ Dashboard dibangun di **Google Looker Studio** dengan fokus pada kejelasan hiera
 
 ## Struktur Repositori
 
-```text
-├── data/
-│   └── Clean_Layoffs_Data.csv         # Dataset bersih hasil pembersihan
 ├── sql/
-│   └── layoffs_cleaning_eda.sql       # Skrip SQL data cleaning & EDA
-├── dashboard_preview.png              # Tangkapan layar dashboard Looker Studio
+│   └── layoffs_cleaning_eda.sql       # Skrip SQL analisis & eksplorasi data
+├── Clean_Layoffs_Data.csv             # Dataset bersih siap analisis
 └── README.md                          # Dokumentasi proyek
