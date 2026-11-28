@@ -2,7 +2,7 @@
 
 Proyek analisis data *end-to-end* untuk memetakan tren dan dampak pemutusan hubungan kerja (PHK) global periode 2020-2026. Pengerjaan mencakup pembersihan data (*data cleaning*) menggunakan SQL, analisis eksploratif (EDA), hingga pembuatan *dashboard* interaktif di Google Looker Studio.
 
-(https://datastudio.google.com/reporting/9951d45c-28b4-42a9-81f2-cefb0c635cb8)](https://datastudio.google.com/reporting/9951d45c-28b4-42a9-81f2-cefb0c635cb8)
+**Link Dashboard Interaktif:** [Buka di Google Looker Studio](https://datastudio.google.com/reporting/9951d45c-28b4-42a9-81f2-cefb0c635cb8)
 
 <img width="1477" height="925" alt="WhatsApp Image 2026-11-26 at 22 04 49" src="https://github.com/user-attachments/assets/c6ce5cf3-d3a3-4238-9752-1bf6ed4963ed" />
 
